@@ -87,6 +87,15 @@ c1556480bf3e26d53c8d349abb7d534c5b6e441f7cece408d18d0009545a19a1  telecom_flash_
 c30da875d71cb4db60baec79ba7a40ed7b3e929eac9a7b40aedfd6d5ca5fafb0  telecom_flash_tool/中兴7607P电信版固件更新工具.exe
 ```
 
+## 相关仓库
+
+同品牌其它机型，命令体系相近，排障时可以互相参照；每个仓库开头都对应一篇文章：
+
+- [中兴 F650 / F1855V2 工具包](https://github.com/dellzou/ZTE_F650_F1855V2_Flashing_Software_and_Tutorial)：中兴 F650 / F1855V2，天翼网关 4.0 开 Telnet
+- [中兴 F673AV9 / F7015TV3 / F7610M 工具包](https://github.com/dellzou/ZTE_F673AV9_F7015TV3_F7610M_Flashing_Software_and_Tutorial)：中兴 F673AV9 / F7015TV3 / F7610M，一套命令通吃
+- [中兴 G7610 工具包](https://github.com/dellzou/ZTE_G7610_Flashing_Software_and_Tutorial)：中兴 G7610，工厂模式、setmac 改码、配置解密
+- [中兴 G7615 / G7611 工具包](https://github.com/dellzou/ZTE_G7615_G7611_Flashing_Software_and_Tutorial)：中兴 G7615 / G7611，改地区与分区刷写
+
 ## 免责声明
 
 工具与固件均来自公开维修资料，仅供自有设备维修与学习使用。刷机有风险，操作前先备份，后果自负。
